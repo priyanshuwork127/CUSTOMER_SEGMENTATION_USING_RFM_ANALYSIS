@@ -1,0 +1,51 @@
+issue,rule_applied,rows_affected
+Duplicate customer rows,Removed exact duplicate customer rows; retained the first occurrence.,0
+Missing customer_id,Quarantined customer records without a customer identifier.,0
+Missing customer city,Replaced missing or blank city values with 'Unknown'.,9
+Missing customer state,Replaced missing or blank state values with 'Unknown'.,0
+Missing customer acquisition_channel,Replaced missing or blank acquisition_channel values with 'Unknown'.,6
+Inconsistent customer text: city,Trimmed whitespace and standardized city to title case.,0
+Inconsistent customer text: state,Trimmed whitespace and standardized state to title case.,0
+Inconsistent customer text: acquisition_channel,Trimmed whitespace and standardized acquisition_channel to title case.,0
+Invalid or missing signup_date,Parsed signup_date; retained customer and left invalid dates null because signup date is not required for RFM.,0
+Duplicate customer rows,Removed exact duplicate customer rows; retained the first occurrence.,0
+Missing customer_id,Quarantined customer records without a customer identifier.,0
+Missing customer city,Replaced missing or blank city values with 'Unknown'.,9
+Missing customer state,Replaced missing or blank state values with 'Unknown'.,0
+Missing customer acquisition_channel,Replaced missing or blank acquisition_channel values with 'Unknown'.,6
+Inconsistent customer text: city,Trimmed whitespace and standardized city to title case.,0
+Inconsistent customer text: state,Trimmed whitespace and standardized state to title case.,0
+Inconsistent customer text: acquisition_channel,Trimmed whitespace and standardized acquisition_channel to title case.,0
+Invalid or missing signup_date,Parsed signup_date; retained customer and left invalid dates null because signup date is not required for RFM.,0
+Duplicate product rows,Removed exact duplicate product rows; retained the first occurrence.,0
+Inconsistent product category text,Trimmed whitespace and standardized category labels to title case.,7
+Invalid product master unit_price,"Quarantined products with missing, non-numeric, zero, or negative standard prices.",0
+Exact duplicate transaction rows,Quarantined repeated full rows and retained the first occurrence.,93
+Inconsistent payment_method text,Trimmed whitespace and mapped known payment labels to canonical values.,27
+Inconsistent order_status text,Trimmed whitespace and standardized order_status to title case.,0
+Missing customer_id,Quarantined transaction lines without a customer ID because RFM cannot attribute them.,82
+Missing invoice_date,Quarantined transaction lines with missing or unparseable invoice dates.,41
+Missing unit_price,Quarantined transaction lines with missing or non-numeric unit prices.,41
+Missing invoice_id,Quarantined transaction lines without an invoice ID.,0
+Missing product_id,Quarantined transaction lines without a product ID.,0
+Zero quantity,Quarantined zero-quantity lines because they do not represent a purchase or return.,15
+Negative quantity on non-return order,Quarantined negative quantities unless the order status is Returned.,0
+Negative unit_price,Quarantined transaction lines with negative unit prices.,15
+Invalid discount_pct,Quarantined missing or out-of-range discounts; valid range is 0 through 1.,0
+Future invoice_date,Quarantined invoice dates later than the declared data end date of 2026-10-31.,15
+Unknown customer_id reference,Quarantined transaction lines whose customer ID is absent from customers.csv.,6
+Unknown product_id reference,Quarantined transaction lines whose product ID is absent from products.csv.,6
+Missing customer_id,Quarantined transaction lines without a customer ID because RFM cannot attribute them.,82
+Missing invoice_date,Quarantined transaction lines with missing or unparseable invoice dates.,41
+Missing unit_price,Quarantined transaction lines with missing or non-numeric unit prices.,41
+Missing invoice_id,Quarantined transaction lines without an invoice ID.,0
+Missing product_id,Quarantined transaction lines without a product ID.,0
+Zero quantity,Quarantined zero-quantity lines because they do not represent a purchase or return.,15
+Negative quantity on non-return order,Quarantined negative quantities unless the order status is Returned.,0
+Negative unit_price,Quarantined transaction lines with negative unit prices.,15
+Invalid discount_pct,Quarantined missing or out-of-range discounts; valid range is 0 through 1.,0
+Future invoice_date,Quarantined invoice dates later than the declared data end date of 2026-10-31.,15
+Unknown customer_id reference,Quarantined transaction lines whose customer ID is absent from customers.csv.,6
+Unknown product_id reference,Quarantined transaction lines whose product ID is absent from products.csv.,6
+Missing payment_method,Replaced missing or blank payment methods in retained rows with 'Unknown'.,60
+Unrecognized order_status,Retained unrecognized statuses for review; exclude them from completed-purchase RFM.,0

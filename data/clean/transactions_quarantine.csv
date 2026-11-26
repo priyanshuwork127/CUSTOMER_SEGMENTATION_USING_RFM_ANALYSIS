@@ -1,0 +1,314 @@
+invoice_id,customer_id,invoice_date,product_id,quantity,unit_price,discount_pct,payment_method,order_status,quarantine_reason
+INV100017,C00003,,P0032,-4,7204.41,0.2,Net Banking,Returned,Missing invoice_date
+INV100046,C00006,2026-11-30 00:00:00,P0004,3,5818.93,0.1,Net Banking,Completed,Future invoice_date
+INV100085,C00012,2026-10-20 15:40:00,P0020,2,,0.15,Net Banking,Completed,Missing unit_price
+INV100095,,2026-07-02 15:36:00,P0006,1,5240.3,0.2,Credit Card,Completed,Missing customer_id
+INV100130,,2026-10-12 08:02:00,P0002,3,1211.33,0.2,UPI,Completed,Missing customer_id
+INV100151,C00021,,P0047,1,3253.47,0.05,Credit Card,Completed,Missing invoice_date
+INV100166,,2025-07-22 11:18:00,P0064,-3,2123.18,0.15,Cash on Delivery,Returned,Missing customer_id
+INV100167,C00023,2025-09-10 16:34:00,P0031,3,,0.05,Debit Card,Completed,Missing unit_price
+INV100211,,2026-08-09 20:08:00,P0011,1,7678.96,0.0,UPI,Completed,Missing customer_id
+INV100217,C00027,2026-11-30 00:00:00,P0065,1,6597.58,0.1,Debit Card,Completed,Future invoice_date
+INV100228,C00027,2026-03-28 17:33:00,P0034,1,-99.0,0.2,Debit Card,Completed,Negative unit_price
+INV100313,C00036,2025-09-04 08:30:00,P0038,0,244.4,0.2,Debit Card,Completed,Zero quantity
+INV100324,C00037,,P0051,2,7863.54,0.2,UPI,Completed,Missing invoice_date
+INV100327,C00037,2025-10-31 08:07:00,P0044,2,,0.15,Cash on Delivery,Completed,Missing unit_price
+INV100331,,2026-01-25 08:16:00,P0023,1,169.98,0.2,UPI,Completed,Missing customer_id
+INV100342,C00037,2026-08-12 11:12:00,P0017,3,,0.1,Cash on Delivery,Completed,Missing unit_price
+INV100353,C00038,2026-02-02 13:17:00,P0052,1,,0.05,Debit Card,Completed,Missing unit_price
+INV100359,,2026-07-01 19:33:00,P0039,1,4733.28,0.15,Net Banking,Completed,Missing customer_id
+INV100381,C00041,2025-11-13 12:33:00,P0053,1,-99.0,0.2,Net Banking,Completed,Negative unit_price
+INV100400,C00042,,P0052,1,1121.58,0.0,UPI,Completed,Missing invoice_date
+INV100404,,2026-07-15 13:09:00,P0008,4,2440.05,0.15,Cash on Delivery,Completed,Missing customer_id
+INV100441,,2026-07-25 13:50:00,P0048,3,7054.8,0.05,Cash on Delivery,Completed,Missing customer_id
+INV100488,C00047,2026-08-09 12:55:00,P0060,3,-99.0,0.0,UPI,Completed,Negative unit_price
+INV100518,C00049,,P0032,3,7166.24,0.0,Credit Card,Completed,Missing invoice_date
+INV100594,,2026-10-01 08:27:00,P0006,4,6158.19,0.2,Net Banking,Completed,Missing customer_id
+INV100685,C00064,2026-08-04 16:10:00,P0048,1,,0.1,UPI,Completed,Missing unit_price
+INV100704,,2025-10-16 20:19:00,P0002,1,1228.77,0.1,Credit Card,Completed,Missing customer_id
+INV100723,C00066,2026-08-19 12:35:00,P9999,2,569.5,0.1,Credit Card,Completed,Unknown product_id reference
+INV100748,,2026-05-12 21:39:00,P0077,1,2807.85,0.05,UPI,Completed,Missing customer_id
+INV100758,C00070,,P0050,4,1180.78,0.15,Debit Card,Completed,Missing invoice_date
+INV100768,,2026-01-14 11:03:00,P0060,1,2058.01,0.15,Net Banking,Completed,Missing customer_id
+INV100801,C00073,2026-03-24 18:11:00,P9999,3,7278.64,0.2,Debit Card,Completed,Unknown product_id reference
+INV100802,C00073,2026-08-16 11:08:00,P0043,0,1801.1,0.05,Debit Card,Completed,Zero quantity
+INV100803,,2026-09-16 10:23:00,P0049,1,6757.88,0.0,Cash on Delivery,Completed,Missing customer_id
+INV100829,,2025-09-29 10:22:00,P0021,3,6029.61,0.2,Net Banking,Completed,Missing customer_id
+INV100901,,2026-02-16 11:57:00,P0080,4,1595.9,0.05,Net Banking,Completed,Missing customer_id
+INV100927,C00085,2026-02-02 10:04:00,P0036,2,-99.0,0.15,Credit Card,Completed,Negative unit_price
+INV100936,C99999,2026-10-25 11:12:00,P0037,2,3894.94,0.15,UPI,Completed,Unknown customer_id reference
+INV100945,C00086,2026-05-09 15:56:00,P0078,3,,0.0,Cash on Delivery,Completed,Missing unit_price
+INV100982,,2026-09-22 16:52:00,P0017,4,6514.69,0.2,UPI,Completed,Missing customer_id
+INV101011,C00091,,P0070,1,8229.62,0.0,Debit Card,Completed,Missing invoice_date
+INV101049,,2025-12-13 17:04:00,P0012,3,7379.29,0.2,Net Banking,Completed,Missing customer_id
+INV101067,C00096,2026-06-03 21:34:00,P0059,1,,0.15,Credit Card,Cancelled,Missing unit_price
+INV101118,,2026-03-28 21:00:00,P0022,4,4634.29,0.0,Cash on Delivery,Completed,Missing customer_id
+INV101120,C00105,2026-07-18 15:38:00,P0075,0,8218.19,0.0,UPI,Completed,Zero quantity
+INV101134,C00106,2026-06-01 16:35:00,P9999,3,7440.84,0.0,Debit Card,Completed,Unknown product_id reference
+INV101162,,2026-07-17 21:36:00,P0063,2,2956.36,0.2,Debit Card,Completed,Missing customer_id
+INV101201,,2026-05-04 16:00:00,P0064,1,2376.26,0.0,Net Banking,Completed,Missing customer_id
+INV101203,C00112,,P0021,4,6039.04,0.15,Debit Card,Completed,Missing invoice_date
+INV101214,,2025-04-16 20:37:00,P0051,4,7929.05,0.0,Debit Card,Completed,Missing customer_id
+INV101228,C00114,,P0032,2,8670.75,0.0,Net Banking,Completed,Missing invoice_date
+INV101234,,2026-03-02 21:18:00,P0069,4,597.48,0.15,Cash on Delivery,Completed,Missing customer_id
+INV101258,C00117,2025-08-16 15:56:00,P0072,0,2357.2,0.0,Net Banking,Completed,Zero quantity
+INV101275,,2026-01-19 17:54:00,P0064,1,2142.17,0.15,Credit Card,Completed,Missing customer_id
+INV101300,C00122,2026-08-05 10:52:00,P0037,2,,0.2,Net Banking,Completed,Missing unit_price
+INV101388,,2026-09-19 15:18:00,P0054,4,7938.62,0.15,Debit Card,Completed,Missing customer_id
+INV101393,C99999,2026-02-18 18:37:00,P0033,2,5187.01,0.15,Credit Card,Completed,Unknown customer_id reference
+INV101397,C00135,2026-08-19 11:58:00,P0035,4,,0.1,Cash on Delivery,Completed,Missing unit_price
+INV101408,,2026-02-27 14:57:00,P0037,3,3948.78,0.1,Cash on Delivery,Completed,Missing customer_id
+INV101424,C00138,2025-10-17 17:42:00,P0043,3,,0.0,Credit Card,Completed,Missing unit_price
+INV101427,,2025-12-14 11:12:00,P0007,4,6556.76,0.0,Net Banking,Completed,Missing customer_id
+INV101444,C00139,2025-10-16 10:35:00,P0035,-1,,0.15,Debit Card,Returned,Missing unit_price
+INV101454,C00140,,P0012,1,7376.63,0.05,Net Banking,Completed,Missing invoice_date
+INV101467,,2025-09-25 13:42:00,P0030,2,7914.23,0.05,Cash on Delivery,Cancelled,Missing customer_id
+INV101470,C00141,2025-12-05 15:07:00,P0071,0,4775.0,0.05,Credit Card,Completed,Zero quantity
+INV101492,,2025-10-26 17:23:00,P0050,4,1123.34,0.15,Cash on Delivery,Completed,Missing customer_id
+INV101499,,2026-03-15 20:29:00,P0053,4,6931.5,0.0,UPI,Cancelled,Missing customer_id
+INV101517,C00145,2026-04-14 20:29:00,P9999,3,1060.73,0.0,Cash on Delivery,Completed,Unknown product_id reference
+INV101537,,2026-03-01 12:26:00,P0074,1,7450.12,0.2,Net Banking,Completed,Missing customer_id
+INV101558,C00149,,P0025,3,1228.41,0.0,Cash on Delivery,Completed,Missing invoice_date
+INV101596,,2025-11-12 19:00:00,P0011,3,7746.62,0.0,UPI,Completed,Missing customer_id
+INV101601,C00154,,P0011,1,8066.06,0.1,Credit Card,Completed,Missing invoice_date
+INV101619,C00154,2026-10-17 15:47:00,P0029,0,2527.71,0.2,Credit Card,Completed,Zero quantity
+INV101631,C99999,2026-06-05 20:21:00,P0027,4,5116.99,0.2,Debit Card,Completed,Unknown customer_id reference
+INV101647,,2026-10-06 13:25:00,P0016,1,290.05,0.1,UPI,Completed,Missing customer_id
+INV101648,,2026-10-24 20:48:00,P0016,4,339.23,0.2,Cash on Delivery,Completed,Missing customer_id
+INV101663,C00160,2026-01-07 17:23:00,P0015,1,,0.0,UPI,Completed,Missing unit_price
+INV101713,,2026-02-13 16:59:00,P0040,4,909.23,0.15,Cash on Delivery,Completed,Missing customer_id
+INV101801,,2026-05-19 15:49:00,P0080,1,1768.13,0.15,UPI,Completed,Missing customer_id
+INV101802,C00172,2026-06-30 16:26:00,P0058,1,,0.15,Debit Card,Completed,Missing unit_price
+INV101808,C00173,2025-11-15 18:01:00,P0005,4,,0.15,Credit Card,Completed,Missing unit_price
+INV101828,C00174,2026-07-13 10:28:00,P0010,1,,0.2,Credit Card,Completed,Missing unit_price
+INV101860,C00180,2025-05-11 15:25:00,P0049,-2,,0.15,UPI,Returned,Missing unit_price
+INV101879,C00181,2026-08-02 09:24:00,P0078,3,,0.15,Net Banking,Completed,Missing unit_price
+INV101888,C00183,,P0039,1,4783.14,0.15,Cash on Delivery,Completed,Missing invoice_date
+INV101924,,2026-07-27 10:30:00,P0015,4,415.59,0.1,Cash on Delivery,Completed,Missing customer_id
+INV101926,C00185,,P0077,1,2889.7,0.2,Debit Card,Completed,Missing invoice_date
+INV101929,C00186,,P0008,4,2559.42,0.2,Credit Card,Completed,Missing invoice_date
+INV101933,,2025-11-12 15:22:00,P0004,1,5678.6,0.15,UPI,Completed,Missing customer_id
+INV101953,C00187,,P0054,4,9223.94,0.15,Debit Card,Completed,Missing invoice_date
+INV101967,,2026-05-24 17:03:00,P0014,4,2778.82,0.0,Credit Card,Completed,Missing customer_id
+INV101992,C00191,2025-09-03 09:55:00,P0032,3,,0.05,Net Banking,Completed,Missing unit_price
+INV102012,C00193,,P0014,2,3090.93,0.0,Net Banking,Completed,Missing invoice_date
+INV102021,C00194,2026-11-30 00:00:00,P0023,3,180.7,0.05,Debit Card,Completed,Future invoice_date
+INV102026,,2026-06-23 17:31:00,P0048,2,7244.62,0.1,Debit Card,Completed,Missing customer_id
+INV102083,,2025-11-08 18:43:00,P0040,4,1065.21,0.05,Debit Card,Completed,Missing customer_id
+INV102098,C00203,2026-06-13 20:55:00,P0025,4,,0.05,Net Banking,Completed,Missing unit_price
+INV102168,,2025-10-23 09:27:00,P0016,1,304.94,0.15,Cash on Delivery,Completed,Missing customer_id
+INV102170,,2026-04-04 12:27:00,P0021,2,6167.56,0.0,Debit Card,Cancelled,Missing customer_id
+INV102184,C00215,,P0023,4,170.93,0.2,,Completed,Missing invoice_date
+INV102223,,2026-01-30 12:11:00,P0080,2,1460.1,0.1,Debit Card,Completed,Missing customer_id
+INV102247,,2026-03-14 11:02:00,P0073,4,7527.15,0.15,Net Banking,Completed,Missing customer_id
+INV102299,C00225,2026-11-30 00:00:00,P0052,1,953.58,0.0,UPI,Completed,Future invoice_date
+INV102301,C00225,2026-05-01 14:03:00,P0020,3,,0.0,Debit Card,Completed,Missing unit_price
+INV102311,,2026-02-06 15:20:00,P0038,1,260.81,0.05,UPI,Completed,Missing customer_id
+INV102338,C00232,,P0072,2,2383.96,0.2,Cash on Delivery,Completed,Missing invoice_date
+INV102350,C00232,,P0033,2,5142.39,0.15,Cash on Delivery,Completed,Missing invoice_date
+INV102369,,2025-12-11 10:06:00,P0058,3,3696.96,0.0,Net Banking,Completed,Missing customer_id
+INV102386,C00235,2026-11-30 00:00:00,P0044,1,7274.83,0.2,UPI,Completed,Future invoice_date
+INV102425,C00239,2026-03-26 16:26:00,P0014,3,-99.0,0.05,UPI,Completed,Negative unit_price
+INV102527,,2026-02-02 20:32:00,P0061,4,3856.53,0.15,Debit Card,Completed,Missing customer_id
+INV102538,C00249,2026-08-13 18:17:00,P0080,4,-99.0,0.05,UPI,Completed,Negative unit_price
+INV102546,C00251,2026-11-30 00:00:00,P0028,4,581.22,0.0,Credit Card,Completed,Future invoice_date
+INV102547,,2025-09-16 09:00:00,P0054,1,9167.96,0.05,Credit Card,Completed,Missing customer_id
+INV102564,,2026-06-25 11:30:00,P0068,4,3917.07,0.05,Cash on Delivery,Completed,Missing customer_id
+INV102572,,2025-10-05 09:44:00,P0028,4,642.69,0.2,Cash on Delivery,Completed,Missing customer_id
+INV102579,C00255,,P0014,3,2759.56,0.1,UPI,Completed,Missing invoice_date
+INV102627,C00258,2026-10-08 14:22:00,P0028,1,,0.05,UPI,Completed,Missing unit_price
+INV102653,,2026-09-07 16:27:00,P0042,3,1413.31,0.15,Net Banking,Completed,Missing customer_id
+INV102677,C00262,,P0015,3,385.78,0.15,UPI,Completed,Missing invoice_date
+INV102685,C00263,2026-11-30 00:00:00,P0049,3,6565.54,0.05,Credit Card,Completed,Future invoice_date
+INV102709,C00266,,P0040,3,999.32,0.05,Net Banking,Cancelled,Missing invoice_date
+INV102734,,2026-10-17 20:07:00,P0014,3,2865.23,0.05,Cash on Delivery,Completed,Missing customer_id
+INV102784,C00275,2026-10-16 17:31:00,P0037,1,-99.0,0.0,Net Banking,Completed,Negative unit_price
+INV102795,C00277,2026-03-27 13:20:00,P9999,3,8961.29,0.2,Net Banking,Completed,Unknown product_id reference
+INV102831,,2025-10-25 11:53:00,P0018,4,6398.51,0.05,Net Banking,Completed,Missing customer_id
+INV102869,,2025-03-10 10:53:00,P0068,2,4498.7,0.05,Net Banking,Completed,Missing customer_id
+INV102902,C00288,2026-11-30 00:00:00,P0079,4,5544.34,0.2,Debit Card,Completed,Future invoice_date
+INV102962,C00293,,P0006,1,6004.2,0.15,Net Banking,Completed,Missing invoice_date
+INV102971,C00294,2025-09-16 10:43:00,P0014,3,,0.0,Cash on Delivery,Completed,Missing unit_price
+INV103010,,2026-01-19 17:09:00,P0001,2,1995.12,0.1,Cash on Delivery,Completed,Missing customer_id
+INV103051,,2026-06-02 19:28:00,P0076,3,749.68,0.0,UPI,Completed,Missing customer_id
+INV103154,C00310,,P0031,4,5239.58,0.1,Net Banking,Completed,Missing invoice_date
+INV103154,C00310,2026-06-16 18:57:00,P0047,0,3476.83,0.1,Credit Card,Completed,Zero quantity
+INV103208,,2025-07-27 21:39:00,P0055,2,6008.14,0.15,Credit Card,Completed,Missing customer_id
+INV103259,C00318,2026-11-30 00:00:00,P0057,2,5908.47,0.2,Credit Card,Completed,Future invoice_date
+INV103262,C00319,,P0064,2,2439.46,0.1,Cash on Delivery,Completed,Missing invoice_date
+INV103290,C00321,,P0077,4,2562.99,0.1,Net Banking,Completed,Missing invoice_date
+INV103319,,2026-09-30 09:39:00,P0065,2,7266.17,0.15,UPI,Completed,Missing customer_id
+INV103388,C00331,2025-10-10 09:28:00,P0059,1,,0.1,Net Banking,Completed,Missing unit_price
+INV103407,,2025-12-06 18:15:00,P0036,3,6377.66,0.2,Debit Card,Completed,Missing customer_id
+INV103416,C00334,2025-09-22 15:41:00,P0065,0,6782.13,0.2,Cash on Delivery,Completed,Zero quantity
+INV103419,C00334,2025-12-18 12:19:00,P0079,1,,0.05,Net Banking,Completed,Missing unit_price
+INV103438,C00336,2025-12-22 18:34:00,P0054,1,,0.0,Credit Card,Completed,Missing unit_price
+INV103451,C99999,2026-10-13 12:31:00,P0047,4,3701.5,0.1,Credit Card,Completed,Unknown customer_id reference
+INV103464,,2025-12-27 18:10:00,P0035,3,6870.24,0.05,Cash on Delivery,Completed,Missing customer_id
+INV103484,C99999,2026-05-28 11:31:00,P0004,1,5628.97,0.05,Credit Card,Completed,Unknown customer_id reference
+INV103562,C00345,2026-10-26 08:22:00,P0026,1,-99.0,0.0,Cash on Delivery,Completed,Negative unit_price
+INV103571,,2026-08-29 21:02:00,P0007,2,6852.27,0.1,Credit Card,Cancelled,Missing customer_id
+INV103602,C00349,2026-11-30 00:00:00,P0035,3,6482.16,0.1,UPI,Completed,Future invoice_date
+INV103606,C00351,2026-11-30 00:00:00,P0028,2,631.05,0.15,Credit Card,Completed,Future invoice_date
+INV103647,C00355,2025-12-15 13:50:00,P0030,0,7636.17,0.05,Credit Card,Completed,Zero quantity
+INV103651,C00355,,P0057,4,5706.61,0.1,Debit Card,Completed,Missing invoice_date
+INV103678,C00357,2025-12-22 21:26:00,P0064,4,,0.0,Credit Card,Completed,Missing unit_price
+INV103705,C00359,2026-04-27 18:46:00,P0034,4,,0.05,UPI,Cancelled,Missing unit_price
+INV103719,C00360,,P0037,1,3762.61,0.05,Cash on Delivery,Completed,Missing invoice_date
+INV103772,C00364,,P0003,1,2222.15,0.1,Cash on Delivery,Completed,Missing invoice_date
+INV103831,C00374,,P0053,2,6872.58,0.15,UPI,Completed,Missing invoice_date
+INV103870,C00377,2025-10-11 14:41:00,P0046,2,-99.0,0.2,Cash on Delivery,Completed,Negative unit_price
+INV103898,C00380,2026-05-09 13:20:00,P0072,2,-99.0,0.05,Credit Card,Completed,Negative unit_price
+INV103925,C00384,2025-11-13 12:11:00,P0054,4,-99.0,0.1,Net Banking,Completed,Negative unit_price
+INV103965,,2026-06-01 09:43:00,P0068,1,4166.66,0.0,Credit Card,Completed,Missing customer_id
+INV104017,C00391,2026-11-30 00:00:00,P0053,4,6965.53,0.2,Credit Card,Completed,Future invoice_date
+INV104060,C00395,2026-11-30 00:00:00,P0059,3,7966.95,0.0,Net Banking,Completed,Future invoice_date
+INV104062,,2026-07-27 10:25:00,P0030,2,7721.3,0.2,Cash on Delivery,Completed,Missing customer_id
+INV104064,C00396,2026-11-30 00:00:00,P0045,3,2065.01,0.1,Cash on Delivery,Completed,Future invoice_date
+INV104085,C00399,2026-06-15 08:46:00,P0068,2,,0.15,Debit Card,Completed,Missing unit_price
+INV104095,C00400,,P0032,4,7760.87,0.1,UPI,Cancelled,Missing invoice_date
+INV104105,,2025-07-30 12:53:00,P0032,2,7211.19,0.0,Net Banking,Completed,Missing customer_id
+INV104122,,2026-05-05 12:30:00,P0007,3,6563.05,0.15,Debit Card,Completed,Missing customer_id
+INV104126,,,P0015,1,378.12,0.05,Cash on Delivery,Completed,Missing customer_id; Missing invoice_date
+INV104128,,2026-08-03 08:16:00,P0006,2,5514.0,0.05,Net Banking,Completed,Missing customer_id
+INV104225,C00416,2026-02-04 12:13:00,P0003,3,-99.0,0.05,Credit Card,Completed,Negative unit_price
+INV104247,C00418,2026-04-21 13:22:00,P0012,0,7843.74,0.15,UPI,Completed,Zero quantity
+INV104257,,2025-12-29 16:22:00,P0075,3,8765.78,0.0,Net Banking,Completed,Missing customer_id
+INV104259,C00419,2026-04-27 08:32:00,P0018,4,,0.2,Net Banking,Completed,Missing unit_price
+INV104381,C00432,2026-04-28 16:23:00,P0075,1,,0.0,Cash on Delivery,Completed,Missing unit_price
+INV104424,,2025-07-11 17:17:00,P0075,4,8735.16,0.1,Credit Card,Completed,Missing customer_id
+INV104451,C00437,2026-11-30 00:00:00,P0020,3,1204.99,0.2,UPI,Completed,Future invoice_date
+INV104461,,2025-12-28 16:39:00,P0026,3,7804.35,0.2,UPI,Completed,Missing customer_id
+INV104469,C00440,,P0035,1,6164.53,0.2,Net Banking,Completed,Missing invoice_date
+INV104482,C00441,2026-03-17 17:49:00,P0034,0,3844.66,0.05,Net Banking,Completed,Zero quantity
+INV104557,,2025-08-22 18:48:00,P0062,3,1696.34,0.15,Cash on Delivery,Cancelled,Missing customer_id
+INV104578,C00453,2026-05-23 11:03:00,P0057,2,,0.1,UPI,Completed,Missing unit_price
+INV104608,,2026-06-02 10:37:00,P0080,3,1612.9,0.2,Credit Card,Completed,Missing customer_id
+INV104608,,2026-06-02 08:08:00,P0043,3,1686.8,0.1,Cash on Delivery,Completed,Missing customer_id
+INV104621,C00456,2026-08-01 11:25:00,P0010,1,,0.2,Debit Card,Completed,Missing unit_price
+INV104628,C99999,2025-12-01 10:06:00,P0063,4,3375.03,0.15,UPI,Completed,Unknown customer_id reference
+INV104628,C00457,2025-12-01 08:24:00,P0039,3,,0.0,Net Banking,Completed,Missing unit_price
+INV104632,C00457,,P0007,1,6506.83,0.2,UPI,Completed,Missing invoice_date
+INV104634,C00457,,P0037,3,4154.58,0.1,Net Banking,Cancelled,Missing invoice_date
+INV104638,C00457,2026-05-08 13:16:00,P0035,0,7170.65,0.1,UPI,Completed,Zero quantity
+INV104652,C00457,2026-10-05 13:03:00,P0037,4,,0.05,Debit Card,Completed,Missing unit_price
+INV104660,,2026-02-06 16:52:00,P0051,1,7358.32,0.2,Net Banking,Completed,Missing customer_id
+INV104680,C00459,2026-04-29 11:43:00,P0073,2,,0.0,Cash on Delivery,Completed,Missing unit_price
+INV104716,C00462,2025-10-12 17:26:00,P0044,2,,0.15,Credit Card,Completed,Missing unit_price
+INV104750,C00465,2026-05-13 20:55:00,P0054,1,,0.0,UPI,Completed,Missing unit_price
+INV104796,C00471,2025-09-29 09:28:00,P0009,3,-99.0,0.1,UPI,Completed,Negative unit_price
+INV104801,,2025-12-21 14:49:00,P0037,3,3803.29,0.2,Cash on Delivery,Completed,Missing customer_id
+INV104828,,2025-10-14 18:09:00,P0061,-4,3447.37,0.05,Credit Card,Returned,Missing customer_id
+INV104860,,2026-05-01 20:17:00,P0040,1,942.19,0.0,Debit Card,Completed,Missing customer_id
+INV104862,C00478,2026-08-02 08:01:00,P0032,2,,0.15,Net Banking,Cancelled,Missing unit_price
+INV104882,C00479,2026-10-12 15:34:00,P0033,0,5184.27,0.1,Credit Card,Completed,Zero quantity
+INV104900,C00481,2026-06-15 11:24:00,P0027,4,-99.0,0.0,Credit Card,Completed,Negative unit_price
+INV104906,C00482,2026-04-15 20:34:00,P0019,0,7741.92,0.05,Cash on Delivery,Completed,Zero quantity
+INV104947,C00485,2026-05-05 13:02:00,P0051,0,8171.99,0.15,UPI,Completed,Zero quantity
+INV104965,C00487,,P0023,2,202.5,0.05,UPI,Completed,Missing invoice_date
+INV104970,C00488,,P0009,2,4560.09,0.0,Debit Card,Completed,Missing invoice_date
+INV104982,C00489,,P0026,1,8507.69,0.1,UPI,Completed,Missing invoice_date
+INV104986,C00489,2026-01-21 19:37:00,P0048,4,-99.0,0.0,Cash on Delivery,Completed,Negative unit_price
+INV105016,,2026-02-07 12:07:00,P0009,1,4342.12,0.0,Net Banking,Completed,Missing customer_id
+INV105035,,2026-04-11 19:59:00,P0026,1,8317.27,0.15,Debit Card,Completed,Missing customer_id
+INV105049,C00496,2025-11-23 21:55:00,P0016,2,,0.05,Cash on Delivery,Completed,Missing unit_price
+INV105062,C00496,2026-04-18 10:50:00,P9999,3,235.15,0.2,Cash on Delivery,Cancelled,Unknown product_id reference
+INV105089,C00498,,P0002,2,1049.78,0.2,Debit Card,Completed,Missing invoice_date
+INV101626,,2026-01-17 08:29:00,P0013,3,2001.69,0.2,Debit Card,Completed,Missing customer_id
+INV100852,C00077,,P0032,4,7998.07,0.1,UPI,Completed,Missing invoice_date
+INV100022,,2025-11-03 08:30:00,P0021,1,6325.41,0.05,UPI,Completed,Missing customer_id
+INV101535,C00146,2026-01-12 11:53:00,P0053,2,,0.05,Debit Card,Completed,Missing unit_price
+INV101398,,2026-09-04 13:54:00,P0024,2,8252.0,0.15,Credit Card,Completed,Missing customer_id
+INV104447,C00437,2026-05-14 21:42:00,P0020,4,1357.23,0.15,Net Banking,Completed,Exact duplicate of an earlier transaction row
+INV101591,C00153,2026-02-10 09:26:00,P0016,2,300.47,0.2,UPI,Completed,Exact duplicate of an earlier transaction row
+INV104644,C00457,2026-08-14 08:59:00,P0031,1,5287.46,0.1,Cash on Delivery,Completed,Exact duplicate of an earlier transaction row
+INV100355,C00038,2026-02-07 19:30:00,P0016,4,344.24,0.1,UPI,Completed,Exact duplicate of an earlier transaction row
+INV101572,C00151,2025-12-21 10:08:00,P0054,4,9590.59,0.0,UPI,Completed,Exact duplicate of an earlier transaction row
+INV104723,C00462,2026-06-25 11:49:00,P0025,4,1361.95,0.0,Net Banking,Completed,Exact duplicate of an earlier transaction row
+INV102189,C00216,2025-09-14 12:26:00,P0004,2,5203.76,0.15,Net Banking,Completed,Exact duplicate of an earlier transaction row
+INV102928,C00290,2026-05-11 21:55:00,P0033,1,5556.5,0.2,Cash on Delivery,Completed,Exact duplicate of an earlier transaction row
+INV100913,C00083,2026-09-13 18:35:00,P0035,2,7162.35,0.2,Credit Card,Cancelled,Exact duplicate of an earlier transaction row
+INV100292,C00035,2025-12-09 19:19:00,P0020,3,1251.33,0.15,Cash on Delivery,Completed,Exact duplicate of an earlier transaction row
+INV104180,C00408,2026-06-12 16:08:00,P0005,2,197.83,0.05,Cash on Delivery,Completed,Exact duplicate of an earlier transaction row
+INV102456,C00241,2026-02-05 16:18:00,P0030,4,8235.84,0.15,Debit Card,Completed,Exact duplicate of an earlier transaction row
+INV100582,C00055,2026-03-29 08:02:00,P0071,3,4404.39,0.05,Debit Card,Cancelled,Exact duplicate of an earlier transaction row
+INV104462,C00439,2026-01-17 21:40:00,P0066,1,2790.48,0.0,Credit Card,Completed,Exact duplicate of an earlier transaction row
+INV100286,C00034,2026-08-11 10:34:00,P0027,1,5676.6,0.15,UPI,Completed,Exact duplicate of an earlier transaction row
+INV103986,C00390,2025-09-05 16:27:00,P0076,3,825.53,0.2,Credit Card,Completed,Exact duplicate of an earlier transaction row
+INV101647,C00158,2026-10-06 09:12:00,P0048,3,7380.56,0.0,Cash on Delivery,Completed,Exact duplicate of an earlier transaction row
+INV104625,C00456,2026-10-19 18:58:00,P0021,4,6055.79,0.15,Credit Card,Completed,Exact duplicate of an earlier transaction row
+INV103312,C00323,2025-11-15 18:29:00,P0075,2,9668.19,0.2,UPI,Completed,Exact duplicate of an earlier transaction row
+INV103970,C00388,2025-09-25 10:35:00,P0006,2,6149.24,0.15,UPI,Completed,Exact duplicate of an earlier transaction row
+INV103901,C00381,2025-10-12 19:12:00,P0007,1,7415.65,0.2,Debit Card,Completed,Exact duplicate of an earlier transaction row
+INV101155,C00109,2026-03-30 10:44:00,P0001,3,1724.26,0.1,Credit Card,Completed,Exact duplicate of an earlier transaction row
+INV103764,C00364,2026-07-22 20:21:00,P0065,1,7183.73,0.0,UPI,Completed,Exact duplicate of an earlier transaction row
+INV100159,C00022,2026-03-02 17:48:00,P0007,3,7157.13,0.05,Cash on Delivery,Completed,Exact duplicate of an earlier transaction row
+INV100892,C00083,2025-10-01 20:42:00,P0042,1,1440.51,0.15,Cash on Delivery,Completed,Exact duplicate of an earlier transaction row
+INV100056,C00007,2025-12-24 13:11:00,P0035,3,6087.25,0.15,Credit Card,Completed,Exact duplicate of an earlier transaction row
+INV104933,C00484,2026-08-26 14:15:00,P0034,3,3862.11,0.05,Debit Card,Completed,Exact duplicate of an earlier transaction row
+INV104471,C00440,2026-01-30 10:33:00,P0002,1,1233.84,0.15,Debit Card,Completed,Exact duplicate of an earlier transaction row
+INV104930,C00484,2026-06-21 20:25:00,P0032,4,7202.65,0.15,Debit Card,Completed,Exact duplicate of an earlier transaction row
+INV101719,C00164,2026-08-20 15:57:00,P0063,2,3031.39,0.2,Net Banking,Completed,Exact duplicate of an earlier transaction row
+INV103108,C00305,2026-09-15 08:44:00,P0046,3,6863.32,0.0,Cash on Delivery,Completed,Exact duplicate of an earlier transaction row
+INV104727,C00463,2025-08-16 14:12:00,P0031,1,5707.78,0.1,Net Banking,Completed,Exact duplicate of an earlier transaction row
+INV102173,C00214,2026-07-31 09:43:00,P0050,2,971.0,0.2,Debit Card,Completed,Exact duplicate of an earlier transaction row
+INV100589,C00055,2026-07-21 12:03:00,P0041,2,3799.16,0.2,Net Banking,Completed,Exact duplicate of an earlier transaction row
+INV103893,C00380,2026-02-16 19:11:00,P0002,3,1138.83,0.0,Net Banking,Completed,Exact duplicate of an earlier transaction row
+INV104973,C00488,2025-12-26 10:11:00,P0040,3,991.75,0.05,Cash on Delivery,Cancelled,Exact duplicate of an earlier transaction row
+INV101979,C00189,2026-06-22 16:09:00,P0066,1,2661.02,0.1,Credit Card,Completed,Exact duplicate of an earlier transaction row
+INV101240,C00114,2026-05-27 13:20:00,P0022,3,4873.42,0.0,Net Banking,Completed,Exact duplicate of an earlier transaction row
+INV101077,C00098,2026-02-25 10:04:00,P0049,3,6639.02,0.0,Debit Card,Cancelled,Exact duplicate of an earlier transaction row
+INV101632,C00156,2025-02-18 09:36:00,P0021,2,6583.75,0.15,Credit Card,Completed,Exact duplicate of an earlier transaction row
+INV102590,C00255,2026-08-14 15:43:00,P0021,3,6295.52,0.0,Debit Card,Completed,Exact duplicate of an earlier transaction row
+INV102481,C00245,2025-04-23 14:36:00,P0049,1,7442.89,0.05,Net Banking,Completed,Exact duplicate of an earlier transaction row
+INV102189,C00216,2025-09-14 17:01:00,P0002,3,1223.54,0.05,Credit Card,Completed,Exact duplicate of an earlier transaction row
+INV101769,C00168,2025-08-05 13:24:00,P0079,2,5403.08,0.1,Credit Card,Completed,Exact duplicate of an earlier transaction row
+INV103646,C00355,2025-12-01 14:59:00,P0064,3,2404.3,0.05,Cash on Delivery,Completed,Exact duplicate of an earlier transaction row
+INV102558,C00252,2025-09-26 15:14:00,P0068,2,4215.25,0.2,Net Banking,Completed,Exact duplicate of an earlier transaction row
+INV101618,C00154,2026-10-10 08:21:00,P0043,1,1618.24,0.0,Net Banking,Completed,Exact duplicate of an earlier transaction row
+INV100805,C00073,2026-10-14 21:57:00,P0008,3,2504.48,0.05,Debit Card,Completed,Exact duplicate of an earlier transaction row
+INV103432,C00335,2026-03-25 10:37:00,P0040,1,983.61,0.0,Debit Card,Completed,Exact duplicate of an earlier transaction row
+INV100219,C00027,2025-12-21 09:07:00,P0068,3,4226.68,0.0,Debit Card,Completed,Exact duplicate of an earlier transaction row
+INV100242,C00028,2026-08-21 08:09:00,P0078,4,1001.91,0.0,Net Banking,Completed,Exact duplicate of an earlier transaction row
+INV104974,C00488,2026-02-18 19:46:00,P0075,2,9614.56,0.1,Cash on Delivery,Completed,Exact duplicate of an earlier transaction row
+INV100090,C00013,2026-10-28 10:13:00,P0027,2,5945.35,0.1,Credit Card,Completed,Exact duplicate of an earlier transaction row
+INV100309,C00035,2026-09-26 12:01:00,P0045,2,2170.17,0.05,Cash on Delivery,Completed,Exact duplicate of an earlier transaction row
+INV100815,C00074,2026-04-18 10:40:00,P0034,1,3395.47,0.1,Debit Card,Completed,Exact duplicate of an earlier transaction row
+INV101694,C00162,2025-09-20 15:59:00,P0055,2,6203.38,0.2,Credit Card,Completed,Exact duplicate of an earlier transaction row
+INV101026,C00092,2026-05-25 19:44:00,P0026,4,8476.18,0.2,Credit Card,Completed,Exact duplicate of an earlier transaction row
+INV104867,C00479,2025-11-21 10:40:00,P0036,3,7539.31,0.2,UPI,Completed,Exact duplicate of an earlier transaction row
+INV102747,C00271,2025-08-31 08:31:00,P0035,2,6329.92,0.1,UPI,Completed,Exact duplicate of an earlier transaction row
+INV103527,C00344,2025-07-22 09:19:00,P0065,3,6157.07,0.15,Cash on Delivery,Completed,Exact duplicate of an earlier transaction row
+INV100584,C00055,2026-04-10 12:37:00,P0080,-1,1506.79,0.0,Debit Card,Returned,Exact duplicate of an earlier transaction row
+INV101914,C00184,2026-10-30 17:04:00,P0019,3,7711.32,0.15,Credit Card,Completed,Exact duplicate of an earlier transaction row
+INV101979,C00189,2026-06-22 21:36:00,P0015,3,391.75,0.1,Credit Card,Completed,Exact duplicate of an earlier transaction row
+INV102159,C00213,2025-04-02 20:43:00,P0052,1,1113.06,0.2,Credit Card,Completed,Exact duplicate of an earlier transaction row
+INV102997,C00296,2026-06-30 17:26:00,P0022,2,5064.44,0.1,Debit Card,Completed,Exact duplicate of an earlier transaction row
+INV103777,C00365,2026-10-04 11:40:00,P0067,4,1868.0,0.05,UPI,Completed,Exact duplicate of an earlier transaction row
+INV104474,C00441,2025-06-12 16:32:00,P0026,4,8210.83,0.1,Credit Card,Completed,Exact duplicate of an earlier transaction row
+INV100780,C00071,2026-06-20 16:28:00,P0001,1,1769.9,0.0,Debit Card,Completed,Exact duplicate of an earlier transaction row
+INV102606,C00257,2026-03-30 09:41:00,P0065,2,6809.45,0.05,Credit Card,Completed,Exact duplicate of an earlier transaction row
+INV100722,C00066,2026-08-13 08:33:00,P0018,1,6673.38,0.0,Cash on Delivery,Completed,Exact duplicate of an earlier transaction row
+INV100833,C00076,2026-01-07 09:14:00,P0051,4,7196.51,0.1,Net Banking,Completed,Exact duplicate of an earlier transaction row
+INV103530,C00344,2025-08-19 15:45:00,P0013,2,2047.99,0.15,UPI,Completed,Exact duplicate of an earlier transaction row
+INV100051,C00007,2025-01-18 11:24:00,P0050,2,986.83,0.1,Debit Card,Completed,Exact duplicate of an earlier transaction row
+INV103230,C00315,2026-09-26 15:44:00,P0064,3,2469.15,0.0,Cash on Delivery,Completed,Exact duplicate of an earlier transaction row
+INV102132,C00206,2026-09-09 11:22:00,P0034,1,3404.63,0.1,Debit Card,Completed,Exact duplicate of an earlier transaction row
+INV104499,C00445,2026-06-28 18:46:00,P0006,2,5243.82,0.05,Net Banking,Completed,Exact duplicate of an earlier transaction row
+INV100900,C00083,2026-02-13 20:10:00,P0032,2,7405.17,0.2,Cash on Delivery,Completed,Exact duplicate of an earlier transaction row
+INV101019,C00092,2025-11-02 08:01:00,P0001,3,1866.03,0.05,Net Banking,Cancelled,Exact duplicate of an earlier transaction row
+INV103603,C00350,2026-10-23 19:33:00,P0057,2,5757.91,0.15,Debit Card,Cancelled,Exact duplicate of an earlier transaction row
+INV101319,C00123,2026-09-24 15:27:00,P0001,2,1943.24,0.2,Cash on Delivery,Completed,Exact duplicate of an earlier transaction row
+INV104649,C00457,2026-09-21 12:19:00,P0078,3,992.69,0.2,Net Banking,Completed,Exact duplicate of an earlier transaction row
+INV101794,C00171,2026-03-03 15:38:00,P0057,3,5555.4,0.15,Net Banking,Completed,Exact duplicate of an earlier transaction row
+INV104371,C00432,2025-09-25 11:10:00,P0009,2,4545.86,0.2,Credit Card,Completed,Exact duplicate of an earlier transaction row
+INV100366,C00038,2026-09-08 10:22:00,P0022,1,4894.05,0.0,Net Banking,Completed,Exact duplicate of an earlier transaction row
+INV103347,C00325,2026-09-06 20:43:00,P0074,1,7956.1,0.2,Debit Card,Completed,Exact duplicate of an earlier transaction row
+INV101358,C00130,2026-03-19 21:55:00,P0037,2,3532.49,0.05,Cash on Delivery,Completed,Exact duplicate of an earlier transaction row
+INV104978,C00488,2026-03-22 12:12:00,P0048,2,6799.45,0.0,Debit Card,Completed,Exact duplicate of an earlier transaction row
+INV102571,C00254,2025-05-31 12:37:00,P0036,3,7230.42,0.0,Debit Card,Completed,Exact duplicate of an earlier transaction row
+INV100874,C00079,2026-10-03 12:55:00,P0079,1,5047.07,0.1,Credit Card,Completed,Exact duplicate of an earlier transaction row
+INV104063,C00395,2026-09-07 21:04:00,P0046,1,7121.38,0.2,Debit Card,Completed,Exact duplicate of an earlier transaction row
+INV103877,C00378,2025-09-01 21:30:00,P0021,2,6166.86,0.15,UPI,Completed,Exact duplicate of an earlier transaction row
+INV103611,C00351,2026-03-25 11:17:00,P0022,4,4355.06,0.05,Credit Card,Completed,Exact duplicate of an earlier transaction row
+INV101893,C00183,2026-04-20 09:40:00,P0033,2,5331.51,0.15,Debit Card,Completed,Exact duplicate of an earlier transaction row

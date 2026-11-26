@@ -1,0 +1,81 @@
+product_id,product_name,category,unit_price
+P0001,Coffee Pack 01,Grocery,1815.65
+P0002,USB Hub 02,Electronics,1128.07
+P0003,USB Hub 03,Electronics,2287.5
+P0004,Programming Book 04,Books,5372.23
+P0005,Novel 05,Books,190.96
+P0006,Board Game 06,Toys,5628.2
+P0007,Board Game 07,BEAUTY,6989.5
+P0008,Wallet 08,Fashion,2399.23
+P0009,Building Blocks 09,electronics,4170.95
+P0010,Green Tea 10,Grocery,8863.15
+P0011,Programming Book 11,Books,7345.46
+P0012,Water Bottle 12,Home & Kitchen,7222.04
+P0013,Water Bottle 13,grocery,2063.75
+P0014,Novel 14,Books,2960.08
+P0015,Perfume 15,Beauty,413.04
+P0016,USB Hub 16,Electronics,317.45
+P0017,Bedsheet 17,Home & Kitchen,6566.87
+P0018,Wallet 18,Fashion,6685.44
+P0019,Sports Bag 19,home & kitchen,8025.67
+P0020,Water Bottle 20,Home & Kitchen,1264.33
+P0021,Notebook 21,Books,6282.89
+P0022,Casual Shirt 22,Fashion,4638.54
+P0023,Casual Shirt 23,Fashion,184.47
+P0024,Green Tea 24,Grocery,8937.8
+P0025,Power Bank 25,Electronics,1272.15
+P0026,Novel 26,Books,7940.37
+P0027,Snack Box 27,Grocery,5651.86
+P0028,Programming Book 28,Books,596.1
+P0029,Cookware Set 29,Home & Kitchen,2757.58
+P0030,Business Book 30,Sports,7549.77
+P0031,Yoga Mat 31,Sports,5421.07
+P0032,Wireless Earbuds 32,Electronics,7882.91
+P0033,Wallet 33,Fashion,5554.32
+P0034,Water Bottle 34,Home & Kitchen,3655.07
+P0035,Notebook 35, TOYS,6572.06
+P0036,Sports Bag 36,Sports,6861.04
+P0037,Novel 37,Books,3859.56
+P0038,Green Tea 38,Grocery,259.36
+P0039,Programming Book 39,Books,4753.04
+P0040,Board Game 40, FASHION ,981.54
+P0041,Perfume 41,Beauty,3644.81
+P0042,Coffee Pack 42,Grocery,1470.96
+P0043,Dumbbell Set 43,Sports,1728.21
+P0044,Dry Fruits 44,Grocery,7751.0
+P0045,Wallet 45,Fashion,2026.5
+P0046,Snack Box 46,Grocery,6640.43
+P0047,Hair Dryer 47,Beauty,3503.62
+P0048,Snack Box 48,Grocery,6713.19
+P0049,Novel 49,Books,7078.2
+P0050,Sports Bag 50,Sports,1074.84
+P0051,Notebook 51,Books,7809.32
+P0052,Green Tea 52,Grocery,1032.78
+P0053,Building Blocks 53,Toys,6729.86
+P0054,Sneakers 54,Fashion,8815.14
+P0055,Phone Charger 55,Electronics,6514.92
+P0056,Perfume 56,Beauty,3641.47
+P0057,Dry Fruits 57,Grocery,5536.36
+P0058,Bedsheet 58,Home & Kitchen,3769.89
+P0059,Programming Book 59,Books,8427.13
+P0060,Novel 60,Books,1890.17
+P0061,Skin Care Kit 61,Beauty,3636.85
+P0062,Perfume 62,Beauty,1590.41
+P0063,Jeans 63,Fashion,3153.38
+P0064,Yoga Mat 64,Sports,2304.83
+P0065,Coffee Pack 65,Grocery,6817.52
+P0066,Power Bank 66,Electronics,2610.3
+P0067,Snack Box 67,Grocery,1793.03
+P0068,Sneakers 68,books ,4294.49
+P0069,Business Book 69,Books,548.78
+P0070,Water Bottle 70,Home & Kitchen,8639.09
+P0071,Face Wash 71,Beauty,4534.23
+P0072,Sports Bag 72,Sports,2383.06
+P0073,Wireless Earbuds 73,Electronics,6917.51
+P0074,Cookware Set 74,Home & Kitchen,8128.53
+P0075,Coffee Pack 75,Grocery,8842.95
+P0076,Snack Box 76,Grocery,784.63
+P0077,Snack Box 77,Grocery,2843.53
+P0078,Jeans 78,Fashion,1007.25
+P0079,Notebook 79,Books,5607.29
+P0080,Board Game 80,Toys,1612.01
