@@ -1,0 +1,11 @@
+customer_id,city,state,frequency,monetary
+C00161,Hyderabad,Telangana,28,636717.7
+C00203,Hyderabad,Telangana,25,606557.81
+C00037,Pune,Maharashtra,26,605064.44
+C00319,Ahmedabad,Gujarat,26,598005.68
+C00496,Indore,Madhya Pradesh,27,597353.09
+C00249,Ahmedabad,Gujarat,26,574324.29
+C00044,Lucknow,Uttar Pradesh,26,548067.94
+C00224,Mumbai,Maharashtra,28,528242.4
+C00145,Ahmedabad,Gujarat,22,520978.98
+C00114,Kochi,Kerala,26,512306.07
